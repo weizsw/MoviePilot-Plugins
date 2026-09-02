@@ -1,0 +1,15 @@
+{
+  "DoubanSyncMod": {
+    "v3": false,
+    "name": "豆瓣想看魔改版",
+    "description": "同步豆瓣想看数据，按条件添加 MoviePilot 订阅或转交 Seerr 请求。",
+    "labels": "订阅,Seerr",
+    "version": "2.2.0",
+    "icon": "douban.png",
+    "author": "jxxghp,dwhmofly,weizsw",
+    "level": 2,
+    "history": {
+      "v2.2.0": "独立插件身份；新增按媒体类型、类型、原始语言和年份过滤并转交 Seerr 请求"
+    }
+  }
+}
